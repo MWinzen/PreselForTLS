@@ -27,13 +27,11 @@ Here is an example:
 
 import TransitScanConfirmed as TSC
 
-TSC.main("LLC",1,1,0.005) 
+TSC.main("LLC",1,0.005)
 
 Arguments are as follows:
 
 FileFormat:  of Kepler Light Curves ->  LLC or SLC (Please check Kepler Data Release 7 Notes)
-
-RunNr:  To run several instances of the script. The last KeplerID scanned is saved to a file, to know where the alrorithm stopped in case of a bug
 
 min_kid: The Kepler ID to start with
 
