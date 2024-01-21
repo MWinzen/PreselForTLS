@@ -18,6 +18,10 @@ https://github.com/hippke/tls
 
 https://github.com/hippke/wotan
 
+Download the Kepler Objects of Interest List and save as: nph-nstedAPI.xml
+
+https://exoplanetarchive.ipac.caltech.edu/cgi-bin/nstedAPI/nph-nstedAPI?table=q1_q17_dr25_stellar&format=ipac&select=*
+
 The following packages are also required
 
 -progressbar
